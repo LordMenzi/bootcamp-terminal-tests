@@ -6,7 +6,9 @@
   "version": "1.0.0",
   "description": "\u0018",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  },
   "scripts": {
     "test": "mocha"
   },
